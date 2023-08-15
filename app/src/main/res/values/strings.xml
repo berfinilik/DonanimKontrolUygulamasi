@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="off" />
+    <string name="on" />
+    <string name="not_supported" />
+</resources>
